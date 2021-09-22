@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "lightgallery": "^2.2.1"
+  }
+}
